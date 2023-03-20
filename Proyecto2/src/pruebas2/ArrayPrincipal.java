@@ -23,9 +23,9 @@ public class ArrayPrincipal {
 				System.out.println(numAleatorios[parImpar]);
 			}else {
 				contadorImpar++;
-			}
-				
+			}	
 		}
+		//a
 		//Cantidad impares
 		System.out.println("Impares: " + contadorImpar);
 		
